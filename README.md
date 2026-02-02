@@ -1,5 +1,5 @@
 # Hello! I'm ET 👋
-### About Me  
+
 I'm a junior studying Computer Science and Economics at Grinnell College.  
 I’m passionate about how technology can solve real-world problems and improve everyday lives.
 ---
