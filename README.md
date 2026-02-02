@@ -1,20 +1,9 @@
-# Hello! I'm ET 👋
+# Hey there 👋
 
-I'm a junior studying Computer Science and Economics at Grinnell College.  
-I’m passionate about how technology can solve real-world problems and improve everyday lives.
----
-### Current Focus  
-- Combining Computer Science and Economics to tackle real-world challenges  
-- Exploring user interface design and mobile development  
-- Looking beyond the hype to understand how AI methods truly solve problems  
-- Building projects that blend software development with problem-solving and design
----
-### Skills & Coursework Highlights  
-- Programming: Python, Java, C#, C  
-- Topics: UI/UX & Mobile Development, Software Development, Artificial Intelligence  
-- Coursework: Operating Systems, Econometrics, UX Design, Mobile App Development
----
-### Work Experience  
-- Student Researcher on Complex Networks  
-- Web Design Intern
----
+I'm ET, a junior studying Computer Science and Economics at Grinnell College.  
+
+I’m interested in combining Computer Science and Economics to solve real-world challenges by exploring UI design, mobile development, and practical AI applications through hands-on software projects.
+
+I have experience programming in Python, Java, C#, and C, with coursework and skills in UI/UX, mobile development, software engineering, artificial intelligence, operating systems, and econometrics.
+
+I’ve worked as a Student Researcher on Complex Networks and a Web Design Intern.
