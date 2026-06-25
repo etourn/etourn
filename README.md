@@ -5,7 +5,7 @@ I’m ET, a junior at Grinnell College studying **Computer Science & Economics**
 ## Skills
 
 - Python, Java, C#, C  
-- UI/UX, mobile development, software engineering  
+- UI/UX, mobile development
 - AI, operating systems, econometrics
 
 ## Experience
