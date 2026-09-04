@@ -1,14 +1,10 @@
-# Hi there! 👋
+### Hi, I'm Engtieng! aka ET
 
-I’m ET, a junior at Grinnell College studying **Computer Science & Economics**. I'm interested in combining CS and Economics to solve real-world problems via **UI design, mobile apps, and AI**.
+🎓 CS + Econ at Grinnell College, senior, U2G pathway toward a Master's at University of Iowa
+💡 Previously: AI & Innovation Fellow at Tech for Kids Academy, Cambodia, and UX Designer at Develop for Good
+👩‍💻 Leading Girls Who Code at Grinnell, teaching Python and robotics to middle schoolers
+🌱 Working toward a career in Product Management / Product Design 
 
-## Skills
+[![ET's GitHub stats](https://github-readme-stats.vercel.app/api?username=etourn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- Python, Java, C#, C  
-- UI/UX, mobile development
-- AI, operating systems, econometrics
 
-## Experience
-
-- Student Researcher — Complex Networks  
-- Web Design Intern
